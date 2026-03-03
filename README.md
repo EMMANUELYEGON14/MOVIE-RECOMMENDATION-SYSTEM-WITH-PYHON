@@ -12,3 +12,6 @@
 - we will perform some data pre-processing
 - feature extraction from the data
 - Use cosine similarity Algorithm
+
+## Deployment
+### Deployed my Movie Recommendation App using Streamlit
